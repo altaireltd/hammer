@@ -31,8 +31,10 @@ d$simul <- factor(d$simul)
 #   # + facet_wrap(vars(status))
 # )
 
+summary(d$duration)
+
 p <- (
-  ggplot(d, aes(stop, duration, color = factor(simul)))
+  ggplot(d, aes(stop, duration))
   # + geom_histogram(binwidth = 0.01)
   # + geom_violin()
   + geom_point(size = 0.1)
@@ -41,7 +43,7 @@ p <- (
   # + scale_y_continuous(breaks = pretty_breaks(10))
   # + scale_y_log10()
   # + ylim(c(0.1, 0.3))
-  + ylim(c(0.55, 0.6))
+  # + ylim(c(0.55, 0.6))
   + scale_x_continuous(breaks = pretty_breaks(10))
   # + facet_wrap(vars(simul))
 )

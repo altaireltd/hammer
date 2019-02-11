@@ -2,6 +2,8 @@ github.com/alexflint/go-arg v0.0.0-20180516182405-f7c0423bd11e h1:dzrBxLIjiq17Da
 github.com/alexflint/go-arg v0.0.0-20180516182405-f7c0423bd11e/go.mod h1:PHxo6ZWOLVMZZgWSAqBynb/KhIqoGO6WKwOVX7rM9dg=
 github.com/alexflint/go-scalar v0.0.0-20170216020425-e80c3b7ed292 h1:0YTMOir1UPjebSvNmIrEKO9FFd+RZc1wwZHUrxfn4BI=
 github.com/alexflint/go-scalar v0.0.0-20170216020425-e80c3b7ed292/go.mod h1:dgifnFPveotJNpwJdl1hDPu5vSuqVVUPIr3isfcvgBA=
+github.com/altaireltd/hammer v0.0.0-20190211160430-31a01e81cd47 h1:0epyCqsoNGULruzJGitWd9WXyutz4/AJ2cCo/QVbx34=
+github.com/altaireltd/hammer v0.0.0-20190211160430-31a01e81cd47/go.mod h1:soHW0k11kEVr+yLQjqk6n+cTchPKuuCVT1UXQC1qDyY=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/gammazero/deque v0.0.0-20190130191400-2afb3858e9c7 h1:D2LrfOPgGHQprIxmsTpxtzhpmF66HoM6rXSmcqaX7h8=
